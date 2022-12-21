@@ -1,0 +1,196 @@
+{
+  "parameters": {
+    "language": "nl",
+    "country": "BE",
+    "zip": "3130"
+    "refreshInMinutes": 15
+  },
+  "styleId": "light",
+  "center": {
+    "autoAdvanceInSeconds": 15,
+    "items": [
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/logo.png",
+        "padding": {
+          "vertical": 6
+        }
+      },
+      {
+        "type": "random",
+        "padding": {
+          "horizontal": 6,
+          "vertical": 3
+        },
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/proxy.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/wit-toreke.png"
+          }
+        ]
+      },
+      {
+        "type": "random",
+        "padding": {
+          "horizontal": 6,
+          "vertical": 3
+        },
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/clubhuis.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/debruyn.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/miscanthus.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/reves.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vanpraet.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vbm-verzekeringen.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vermarc.png"
+          }
+        ]
+      },
+      {
+        "type": "random",
+        "padding": {
+          "horizontal": 6,
+          "vertical": 3
+        },
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/meubelen-verhaegen.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/moving-targets.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/norio.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/omeyocan.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/pizza-roberto.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vandijck.png"
+          }
+        ]
+      },
+      {
+        "type": "random",
+        "padding": {
+          "horizontal": 6,
+          "vertical": 3
+        },
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/detumkens.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/euro-decor.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/garage-thierry-de-roover.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/kbc.jpg"
+          }
+        ]
+      },
+      {
+        "type": "random",
+        "padding": {
+          "vertical": 2
+        },
+        "items": [
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/keizer-karel-blond.png",
+            "text": "Keizer Karel • Blond 8,5% • 3,5 euro"
+          }
+        ]
+      }
+    ]
+  },
+  "left": {
+    "type": "column",
+    "styleId": "darker",
+    "items": [
+      {
+        "type": "clock",
+        "padding": {
+          "vertical": 1
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/logo-white.png",
+        "padding": {
+          "horizontal": 1
+        }
+      },
+      {
+        "type": "weather"
+      }
+    ]
+  },
+  "bottom": {
+    "type": "row",
+    "styleId": "dark",
+    "items": [
+    ],
+    "divider": {
+      "type": "text",
+      "text": "•"
+    }
+  },
+  "styles": [
+    {
+      "id": "light",
+      "backgroundColor": "#ffffff",
+      "contentColor": "#006699"
+    },
+    {
+      "id": "dark",
+      "backgroundColor": "#006699",
+      "contentColor": "#ffffff"
+    },
+    {
+      "id": "darker",
+      "backgroundColor": "#002233",
+      "contentColor": "#ffffff"
+    }
+  ]
+}
+
