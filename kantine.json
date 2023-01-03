@@ -2,7 +2,7 @@
   "parameters": {
     "language": "nl",
     "country": "BE",
-    "zip": "3130"
+    "zip": "3130",
     "refreshInMinutes": 15
   },
   "styleId": "light",
@@ -15,6 +15,19 @@
         "padding": {
           "vertical": 6
         }
+      },
+      {
+        "type": "random",
+        "padding": {
+          "vertical": 2
+        },
+        "items": [
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/keizer-karel-blond.png",
+            "text": "Keizer Karel • Blond 8,5% • 3,5 euro"
+          }
+        ]
       },
       {
         "type": "random",
@@ -32,6 +45,16 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/wit-toreke.png"
           }
         ]
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/snoepzakje.png"
+      },
+      {
+        "type": "social",
+        "app": "facebook",
+        "account": "kcbj.korfbal",
+        "text": "Volg KCBJ op Facebook"
       },
       {
         "type": "random",
@@ -71,6 +94,14 @@
         ]
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/sponsor.png"
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/trooper.png"
+      },
+      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -104,6 +135,10 @@
         ]
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/wifi.png"
+      },
+      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -116,7 +151,7 @@
           },
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/euro-decor.jpg"
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/euro-decor.png"
           },
           {
             "type": "image",
@@ -124,22 +159,15 @@
           },
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/kbc.jpg"
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/kbc.png"
           }
         ]
       },
       {
-        "type": "random",
-        "padding": {
-          "vertical": 2
-        },
-        "items": [
-          {
-            "type": "drink",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/keizer-karel-blond.png",
-            "text": "Keizer Karel • Blond 8,5% • 3,5 euro"
-          }
-        ]
+        "type": "social",
+        "app": "instagram",
+        "account": "kcbj.korfbal",
+        "text": "Volg KCBJ op Instagram"
       }
     ]
   },
@@ -169,6 +197,34 @@
     "type": "row",
     "styleId": "dark",
     "items": [
+      {
+        "type": "social",
+        "app": "facebook",
+        "account": "kcbj.korfbal",
+        "text": "Volg KCBJ op Facebook"
+      },
+      {
+        "type": "text",
+        "text": "Bestel je trainingskledij online in de webshop: shop.kcbj.be"
+      },
+      {
+        "type": "text",
+        "text": "Gratis wifi aan de Grote Baan: WiFi4EU"
+      },
+      {
+        "type": "social",
+        "app": "instagram",
+        "account": "kcbj.korfbal",
+        "text": "Volg KCBJ op Instagram"
+      },
+      {
+        "type": "text",
+        "text": "De KCBJ missie, visie en gedragscode vind je op kcbj.be/visie"
+      },
+      {
+        "type": "text",
+        "text": "Steun KCBJ door aankopen bij je favoriete webshops te doen via trooper.be/kcbj"
+      }
     ],
     "divider": {
       "type": "text",
