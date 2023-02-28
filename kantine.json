@@ -173,6 +173,7 @@
   "left": {
     "type": "column",
     "styleId": "darker",
+    "spacing": 2,
     "items": [
       {
         "type": "clock",
