@@ -17,6 +17,9 @@
         }
       },
       {
+        "type": "weather"
+      },
+      {
         "type": "random",
         "padding": {
           "vertical": 2
