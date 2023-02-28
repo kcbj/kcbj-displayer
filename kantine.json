@@ -196,6 +196,7 @@
   "bottom": {
     "type": "row",
     "styleId": "dark",
+    "spacing": 4,
     "items": [
       {
         "type": "social",
