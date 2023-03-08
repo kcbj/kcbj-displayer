@@ -27,8 +27,8 @@
         "items": [
           {
             "type": "drink",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/pater-damiaan.png",
-            "text": "Pater Damiaan • Blond 6,5% • 3,5 euro"
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/damiaanbier.png",
+            "text": "Damiaanbier • Blond 8% • 3,5 euro"
           }
         ]
       },
@@ -64,6 +64,10 @@
         "text": "Volg KCBJ op Facebook"
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/korfbalweek-2023.png"
+      },
+      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -76,7 +80,7 @@
           },
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/debruyn.png"
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/de-bruyn.png"
           },
           {
             "type": "image",
@@ -94,7 +98,7 @@
       },
       {
         "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/sponsor.png"
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/paasontbijten-2023.png"
       },
       {
         "type": "image",
@@ -135,7 +139,11 @@
       },
       {
         "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/wifi.png"
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-voorjaar-2023.png"
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/festivals.png"
       },
       {
         "type": "random",
