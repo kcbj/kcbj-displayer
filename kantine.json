@@ -28,7 +28,12 @@
           {
             "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/damiaanbier.png",
-            "text": "Damiaanbier • Blond 8% • 3,5 euro"
+            "text": "Damiaanbier • Blond • 8% • 3,5 euro"
+          },
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/sportzot.jpg",
+            "text": "Sportzot • Blond • 0% • 3,5 euro"
           }
         ]
       },
