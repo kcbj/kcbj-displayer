@@ -180,6 +180,19 @@
         "app": "instagram",
         "account": "kcbj.korfbal",
         "text": "Volg KCBJ op Instagram"
+      },
+      {
+        "type": "random",
+        "items": [
+          {
+            "type": "image",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/drone.jpg"
+          },
+          {
+            "type": "image",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/regenboog.png"
+          }
+        ]
       }
     ]
   },
