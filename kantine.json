@@ -27,8 +27,8 @@
         "items": [
           {
             "type": "drink",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/damiaanbier.png",
-            "text": "Damiaanbier • Blond • 8% • 3,5 euro"
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/quivivit.jpg",
+            "text": "Qui Vivit • Blond • 8% • 3,5 euro"
           },
           {
             "type": "drink",
