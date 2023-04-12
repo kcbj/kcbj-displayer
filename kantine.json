@@ -182,11 +182,11 @@
         "items": [
           {
             "type": "image",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/drone.jpg"
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/drone.jpg"
           },
           {
             "type": "image",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/regenboog.png"
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/regenboog.png"
           }
         ]
       }
