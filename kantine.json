@@ -102,6 +102,27 @@
         ]
       },
       {
+        "type": "random",
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/aanwezigheden.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/materiaal.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/samen.jpg"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/vrijwilligers.jpg"
+          }
+        ]
+      },
+      {
         "type": "image",
         "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/trooper.png"
       },
