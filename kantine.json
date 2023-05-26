@@ -27,11 +27,6 @@
         "items": [
           {
             "type": "drink",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/quivivit.jpg",
-            "text": "Qui Vivit • Blond • 8% • 3,5 euro"
-          },
-          {
-            "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/sportzot.jpg",
             "text": "Sportzot • Blond • 0% • 3,5 euro"
           }
@@ -127,6 +122,10 @@
         "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/trooper.png"
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/stuif-in.png"
+      },
+      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -161,7 +160,7 @@
       },
       {
         "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-voorjaar-2023-b.png"
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/barrage.png"
       },
       {
         "type": "image",
@@ -203,6 +202,14 @@
         "items": [
           {
             "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/u13-kampioen.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/u15-kampioen.png"
+          },
+          {
+            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/drone.jpg"
           },
           {
@@ -242,10 +249,8 @@
     "spacing": 4,
     "items": [
       {
-        "type": "social",
-        "app": "facebook",
-        "account": "kcbj.korfbal",
-        "text": "Volg KCBJ op Facebook"
+        "type": "text",
+        "text": "Beslissingswedstrijd KCBJ - ASKC op zondag 28 mei om 16u30"
       },
       {
         "type": "text",
@@ -254,12 +259,6 @@
       {
         "type": "text",
         "text": "Gratis wifi aan de Grote Baan: WiFi4EU"
-      },
-      {
-        "type": "social",
-        "app": "instagram",
-        "account": "kcbj.korfbal",
-        "text": "Volg KCBJ op Instagram"
       },
       {
         "type": "text",
