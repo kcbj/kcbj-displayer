@@ -122,10 +122,6 @@
         "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/trooper.png"
       },
       {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/stuif-in.png"
-      },
-      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -157,10 +153,6 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vandijck.png"
           }
         ]
-      },
-      {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/barrage.png"
       },
       {
         "type": "image",
