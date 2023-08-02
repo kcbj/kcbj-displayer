@@ -155,10 +155,6 @@
         ]
       },
       {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/festivals.png"
-      },
-      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -240,10 +236,6 @@
     "styleId": "dark",
     "spacing": 4,
     "items": [
-      {
-        "type": "text",
-        "text": "Beslissingswedstrijd KCBJ - ASKC op zondag 28 mei om 16u30"
-      },
       {
         "type": "text",
         "text": "Bestel je trainingskledij online in de webshop: shop.kcbj.be"
