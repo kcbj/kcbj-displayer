@@ -27,8 +27,18 @@
         "items": [
           {
             "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/kraaike.png",
+            "text": "Kraaike Tripel • Blond • 8,5% • 3,5 euro"
+          },
+          {
+            "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/sportzot.jpg",
             "text": "Sportzot • Blond • 0% • 3,5 euro"
+          },
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/kraaike-rabarber.png",
+            "text": "Kraaike Rabarber • Tripel • 0% • 3,5 euro"
           }
         ]
       },
