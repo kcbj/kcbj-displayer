@@ -74,10 +74,6 @@
         "text": "Volg KCBJ op Facebook"
       },
       {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/korfbalweek-2023.png"
-      },
-      {
         "type": "random",
         "padding": {
           "horizontal": 6,
@@ -163,6 +159,10 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vandijck.png"
           }
         ]
+      },
+      {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-najaar-2023.png"
       },
       {
         "type": "random",
