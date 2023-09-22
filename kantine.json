@@ -69,10 +69,6 @@
         "text": "Volg KCBJ op Facebook"
       },
       {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/vriendjesdag-2023.png"
-      },
-      {
         "type": "random",
         "padding": {
           "horizontal": 6,
