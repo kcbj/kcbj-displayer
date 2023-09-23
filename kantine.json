@@ -131,6 +131,14 @@
         "items": [
           {
             "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/cremelie.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/gedimat-de-roover.png"
+          },
+          {
+            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/meubelen-verhaegen.png"
           },
           {
@@ -147,7 +155,15 @@
           },
           {
             "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/partis-rentalis.png"
+          },
+          {
+            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/pizza-roberto.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/reves.png"
           },
           {
             "type": "image",
