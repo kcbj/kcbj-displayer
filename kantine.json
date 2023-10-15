@@ -215,14 +215,6 @@
         "items": [
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/u13-kampioen.png"
-          },
-          {
-            "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/u15-kampioen.png"
-          },
-          {
-            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/drone.jpg"
           },
           {
@@ -230,10 +222,6 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/regenboog.jpg"
           }
         ]
-      },
-      {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/maand-van-de-sportclub.png"
       }
     ]
   },
