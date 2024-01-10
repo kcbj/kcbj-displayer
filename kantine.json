@@ -54,6 +54,10 @@
           },
           {
             "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/miscanthus.png"
+          },
+          {
+            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/apotheek-philips.png"
           }
         ]
@@ -82,10 +86,6 @@
           {
             "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/de-bruyn.png"
-          },
-          {
-            "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/miscanthus.png"
           },
           {
             "type": "image",
