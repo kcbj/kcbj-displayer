@@ -27,8 +27,8 @@
         "items": [
           {
             "type": "drink",
-            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/stanneman.jpg",
-            "text": "Stanneman • Blond • 6% • 3,5 euro"
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/vlierbeek.jpg",
+            "text": "Vlierbeek • Blond Abdijbier • 8.5% • 3,5 euro"
           },
           {
             "type": "drink",
