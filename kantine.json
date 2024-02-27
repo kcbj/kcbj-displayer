@@ -20,6 +20,10 @@
         "type": "weather"
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/paasontbijten-2024.png"
+      },
+      {
         "type": "random",
         "padding": {
           "vertical": 2
@@ -173,7 +177,7 @@
       },
       {
         "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-najaar-2023.png"
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-voorjaar-2024.png"
       },
       {
         "type": "random",
