@@ -71,6 +71,23 @@
         "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/snoepzakje.png"
       },
       {
+        "type": "random",
+        "items": [
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/kampioen-zaal-u13.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/kampioen-zaal-u15.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/kampioen-zaal-kern.png"
+          }
+        ]
+      },
+      {
         "type": "social",
         "app": "facebook",
         "account": "kcbj.korfbal",
