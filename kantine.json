@@ -31,6 +31,11 @@
         "items": [
           {
             "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/doorloper.jpg",
+            "text": "Doorloper • Tripel Blond • 8.5% • 3,5 euro"
+          },
+          {
+            "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/vlierbeek.jpg",
             "text": "Vlierbeek • Blond Abdijbier • 8.5% • 3,5 euro"
           },
