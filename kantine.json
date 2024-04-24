@@ -20,10 +20,6 @@
         "type": "weather"
       },
       {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/paasontbijten-2024.png"
-      },
-      {
         "type": "random",
         "padding": {
           "vertical": 2
