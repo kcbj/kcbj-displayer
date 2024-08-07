@@ -28,7 +28,7 @@
           {
             "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/sportzot.jpg",
-            "text": "Sportzot • Blond • 0% • 3,5 euro"
+            "text": "Sportzot • Blond • 0% • 4 euro"
           }
         ]
       },
@@ -56,10 +56,6 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/apotheek-philips.png"
           }
         ]
-      },
-      {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/snoepzakje.png"
       },
       {
         "type": "random",
@@ -111,7 +107,7 @@
           "vertical": 2
         },
         "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/doorloper.jpg",
-        "text": "Doorloper • Tripel Blond • 8.5% • 3,5 euro"
+        "text": "Doorloper • Tripel Blond • 8.5% • 4 euro"
       },
       {
         "type": "random",
@@ -174,10 +170,6 @@
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vandijck.png"
           }
         ]
-      },
-      {
-        "type": "image",
-        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-voorjaar-2024-b.png"
       },
       {
         "type": "random",
