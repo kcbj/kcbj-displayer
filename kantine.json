@@ -176,6 +176,10 @@
         ]
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/thuiswedstrijden-kern-najaar-2024.png"
+      },
+      {
         "type": "random",
         "padding": {
           "horizontal": 6,
