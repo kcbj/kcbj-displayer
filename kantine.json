@@ -58,6 +58,10 @@
         ]
       },
       {
+        "type": "image",
+        "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/snoepzakje-2024.png"
+      },
+      {
         "type": "random",
         "items": [
           {
