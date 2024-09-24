@@ -97,6 +97,10 @@
           },
           {
             "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/moving-targets.png"
+          },
+          {
+            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/vbm-verzekeringen-2022.jpg"
           },
           {
@@ -155,15 +159,7 @@
           },
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/moving-targets.png"
-          },
-          {
-            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/norio.png"
-          },
-          {
-            "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/omeyocan.png"
           },
           {
             "type": "image",
@@ -188,10 +184,6 @@
         "items": [
           {
             "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/detumkens.png"
-          },
-          {
-            "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/cremelie.png"
           },
           {
@@ -213,10 +205,6 @@
           {
             "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/partis-rentalis.png"
-          },
-          {
-            "type": "image",
-            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/reves.png"
           }
         ]
       },
