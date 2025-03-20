@@ -29,6 +29,16 @@
             "type": "drink",
             "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/sportzot.jpg",
             "text": "Sportzot • Blond • 0% • 4 euro"
+          },
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/kwaremont.png",
+            "text": "Kwaremont • Blond • 6,6% • 4 euro"
+          },
+          {
+            "type": "drink",
+            "image": "https://github.com/kcbj/kcbj-displayer/raw/main/images/bier/kwaremont-03.png",
+            "text": "Kwaremont Fittest • Blond • 0,3% • 4 euro"
           }
         ]
       },
