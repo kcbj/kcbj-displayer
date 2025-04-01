@@ -64,6 +64,10 @@
           {
             "type": "image",
             "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/apotheek-philips.png"
+          },
+          {
+            "type": "image",
+            "url": "https://github.com/kcbj/kcbj-displayer/raw/main/images/partner/devrandom.png"
           }
         ]
       },
@@ -286,4 +290,3 @@
     }
   ]
 }
-
